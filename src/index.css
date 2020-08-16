@@ -1,0 +1,68 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Pangolin&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@600&display=swap');
+
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    
+    
+}
+.menu_main{
+    font-size:15px;
+    border-bottom: 1px solid #3BD4CD;
+    font-family: 'Playfair Display', serif;
+   
+    
+}
+.nav-head{
+    font-size:20px;
+    font-family: 'Pangolin', cursive;
+}
+
+.nav-head:hover{
+    font-size:22px;
+    color:#D1524D;
+    
+}
+.home-main{
+    
+ 
+    font-family: 'Dosis', sans-serif;
+
+}
+
+.name{
+    padding-left:8%;
+    color:#4DCFD1;
+    font-family: 'Pangolin', cursive;
+    
+    
+}
+
+.name:hover{
+  font-size:110%;
+}
+
+.button{
+    border-radius:30px;
+}
+.ser{
+    font-family: 'Playfair Display', serif;
+}
+
+
+
+
+.foot{
+    width:100%;
+    color:whitesmoke;
+    bottom:0;
+    left:0;
+    position:fixed;
+    
+}
